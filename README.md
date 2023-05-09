@@ -18,4 +18,8 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=chicanancom&repo=seleniumq-pull-data&theme=radical" />
 </a> 
+<a href="https://github.com/chicanancom/video-ascii">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=chicanancom&repo=video-ascii&theme=radical" />
+</a> 
 
